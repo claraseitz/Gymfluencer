@@ -1,0 +1,60 @@
+---
+title: "Codebuch Gymfluencer"
+author: "Carla Benzing"
+date: "23 1 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Codebuch
+
+Nodelist
+sex
+1 = weiblich 
+2 = männlich 
+3 = divers
+na= keine Angabe 
+
+
+cooperation
+0= EGO
+
+(Marken) 
+1 = Sport Marke 
+2 = Beauty Marke 
+3 = Essens Marke 
+4 = Fashion Marke 
+5 = Auto Marke 
+6 = Haushalts Marke
+
+(Personen) 
+
+7 = Musiker
+8 = Sportler 
+9 = fashion 
+10= lifestlye
+
+(Familie) 
+11 = bruder 
+12 = mutter
+13 = vater 
+
+
+
+Edgelist
+
+
+weight: 
+1 = Privat
+2 = sporadische Kooperation
+3 = häufige Kooperation
+4 = Haupt-Kooperationspartner
+
+
+relation: 
+1 = Vertrag
+2 = Familie
+3 = Kritiker
+4 = gleiche Influencer Vermarktung 
