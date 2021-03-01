@@ -2,11 +2,11 @@ id ,name ,sex,cooperation,type
 pr,Pamela Reif,1,n/a,1
 puma,Puma,n/a,sport,2
 jc,Joel Corry,2,music,1
-jad,Jason Derulo ,2,music,1
+jad,Jason Derulo,2,music,1
 dr,Dennis Reif,2,bro,1
 cln,Christopher Lund Nissen,2,music,1
-dap,David Puentez ,2,music,1
-douglas,Douglas ,n/a,beauty,2
+dap,David Puentez,2,music,1
+douglas,Douglas,n/a,beauty,2
 nakd,NA-KD,n/a,fashion,2
 calzedonia,Calzedonia,n/a,fashion,2
 naturallyp,Naturally Pam,n/a,food,2
@@ -14,7 +14,7 @@ ghd,Ghd Hair,n/a,beauty,2
 nyx,NYX Cosmetics,n/a,beauty,2
 hej,HEJ natural,n/a,food,2
 mercedesbenz,Mercedes Benz,n/a,car,2
-alno,ALNO kitchens,n/a ,house,2
+alno,ALNO kitchens,n/a,house,2
 rainforest ,The rainforest Company,n/a,food,2
 intimissimi,Intimissimi,n/a,fashion,2
 tech,Technogym,n/a,sport,2
